@@ -1,5 +1,5 @@
 # Bodega-El-Kiosko
->Página de Bodega El Kiosko, muestra imágenes de los diferentes productos que ofrecen, y cuentan conuna descripción desplegable que contiene información acerca del producto y su precio.
+>Página de Bodega El Kiosko, muestra imágenes de los diferentes productos que ofrecen, las cuales cuentan con una descripción desplegable que contiene información acerca del producto y su costo.
 
 ## Built With
 

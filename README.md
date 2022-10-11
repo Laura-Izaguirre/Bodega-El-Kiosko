@@ -1,5 +1,5 @@
 # Bodega-El-Kiosko
->Drilling 9
+>Página de Bodega El Kiosko, muestra imágenes de los diferentes productos que ofrecen, y cuentan conuna descripción desplegable que contiene información acerca del producto y su precio.
 
 ## Built With
 
